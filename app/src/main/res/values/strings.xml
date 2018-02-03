@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <string name="STEP">2000</string>
+</resources>
